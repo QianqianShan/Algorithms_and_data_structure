@@ -9,7 +9,7 @@ My practice problems when I learned data structure and algorithms. The problems 
 
 [Binary tree and tree-based depth first search](https://github.com/QianqianShan/Algorithms_and_data_structure/blob/master/Binary-search-logN-time.md)
 
-[Combinations related depth first search](https://github.com/QianqianShan/Algorithms_and_data_structure/blob/master/Bit_manipulation.md)
+[Combinations related depth first search](https://github.com/QianqianShan/Algorithms_and_data_structure/blob/master/Combination-based-DFS.md)
 
 [Permutation- and graph- related depth first search](https://github.com/QianqianShan/Algorithms_and_data_structure/blob/master/Permutation-based-and-graph-based-DFS.md)
 
