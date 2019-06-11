@@ -7,7 +7,7 @@ My practice problems when I learned data structure and algorithms. The problems 
 
 [Breadth first search and topological sorting](https://github.com/QianqianShan/Algorithms_and_data_structure/blob/master/BFS-and-topological-sort.md)
 
-[Binary tree and tree-based depth first search](https://github.com/QianqianShan/Algorithms_and_data_structure/blob/master/Binary-search-logN-time.md)
+[Binary tree and tree-based depth first search](https://github.com/QianqianShan/Algorithms_and_data_structure/blob/master/Binary-tree-and-tree-based-DFS.md)
 
 [Combinations related depth first search](https://github.com/QianqianShan/Algorithms_and_data_structure/blob/master/Combination-based-DFS.md)
 
